@@ -7,7 +7,7 @@ Flask==0.11.1
 idna==2.1
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 ndg-httpsclient==0.4.2
 nylas==1.2.3
