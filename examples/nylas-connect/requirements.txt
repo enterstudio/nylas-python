@@ -3,7 +3,7 @@ cffi==1.7.0
 click==6.6
 cryptography==1.4
 enum34==1.1.6
-Flask==0.11.1
+Flask==2.2.5
 idna==2.1
 ipaddress==1.0.16
 itsdangerous==0.24
